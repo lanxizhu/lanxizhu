@@ -19,15 +19,13 @@
   <!-- knock code pictures - coding.gif -->
   <img align="right" alt="GIF" src="./code.gif"  width="550" height="400" /><br>
 
-### 🧐 More About Me: 
+### Hey! Nice to see you. 👋 : 
 - 👋 Hi, I’m @Jokerzhzh
 - 👀 I'm a front-end developer, working towards more than just front-end
 - 📫 How to reach me? Email: mr.longzhentian@gmail.com
 <br>
 <div align="center">
-  <a herf="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jokerzhzh&layout=compact" >
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jokerzhzh&layout=compact" >
 </div>
 </div>
 
