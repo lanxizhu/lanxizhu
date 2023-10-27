@@ -17,7 +17,7 @@
 ![languages](./icons/languages.png)
 
   <!-- knock code pictures - coding.gif -->
-  <img align="right" alt="GIF" src="./code.gif"  width="550" height="400" /><br>
+  <img align="right" alt="GIF" src="./code.gif"  width="500" height="400" /><br>
 
 ### Hey! Nice to see you. 👋 : 
 - 👋 Hi, I’m @Jokerzhzh
