@@ -20,7 +20,7 @@
   <img align="right" alt="GIF" src="./code.gif"  width="500" height="400" /><br>
 
 ### Hey! Nice to see you. 👋 : 
-- 👋 Hi, I’m @Jokerzhzh
+- 👋 Hi, I’m @loongzhu
 - 👀 I'm a front-end developer, working towards more than just front-end
 - 📫 How to reach me? Email: mr.longzhentian@gmail.com
 <br>
