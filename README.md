@@ -25,7 +25,7 @@
 - 📫 How to reach me? Email: mr.longzhentian@gmail.com
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jokerzhzh&layout=compact" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loongzhu&layout=compact" >
 </div>
 </div>
 
