@@ -25,13 +25,13 @@
 - 📫 How to reach me? Email: mr.longzhentian@gmail.com
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loongzhu&layout=compact" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanxizhu&layout=compact" >
 </div>
 </div>
 
 
 <!--
-**loongzhu/loongzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lanxizhu/lanxizhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
